@@ -17,6 +17,8 @@ The dataset includes the following columns:
 - `user`: Username of the person posting the tweet
 - `text`: The content of the tweet
 
+Link to this dataset : https://drive.google.com/file/d/1GgXK6uLMukRy1kTunwLuH0o6MscFD63F/view
+
 ## Models Used
 The following machine learning models were applied to perform sentiment classification:
 1. **Logistic Regression**: A baseline model used for text classification tasks.
